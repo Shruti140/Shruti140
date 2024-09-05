@@ -11,7 +11,7 @@ Currently, I am looking for opportunities to apply my skills in real-world appli
 - 🌱 **Currently learning**: Advanced JavaScript (React.js, Node.js), Machine Learning, and Cloud Technologies
 - 🤝 **Looking to collaborate on**: Full-stack web applications, AI/ML projects, and open-source contributions
 - 💬 **Ask me about**: Python, JavaScript, web development, and machine learning
-- 📫 **How to reach me**: shrutinauriyal14@gmail.com | https://www.linkedin.com/in/shruti-nauriyal/
+- 📫 **How to reach me**: shrutinauriyal14@gmail.com | [LinkedIn](https://www.linkedin.com/in/shruti-nauriyal/)
 - ⚡ **Fun fact**: I enjoy exploring AI ethics and the societal impact of emerging technologies
 
 ## 💻 Technologies & Tools
