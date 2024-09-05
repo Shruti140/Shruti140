@@ -1,5 +1,7 @@
 # Hi, I'm Shruti Nauriyal 👋
 
+![Visitor Count](https://komarev.com/ghpvc/?username=your-github-username&color=brightgreen)
+
 ## 🚀 About Me
 I am a **passionate software developer** with a strong foundation in **Python** and **JavaScript**, eager to contribute to meaningful projects and grow in a collaborative environment. As a recent graduate in **Computer Science**, I have worked on several personal projects and academic assignments that strengthened my skills in full-stack development and machine learning.
 
@@ -30,6 +32,7 @@ Currently, I am looking for opportunities to apply my skills in real-world appli
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
 
 ## 🌍 Let's Connect!
 - [LinkedIn](https://www.linkedin.com/in/shruti-nauriyal/)
