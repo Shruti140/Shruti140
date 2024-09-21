@@ -3,7 +3,7 @@
 ![Visitor Count](https://komarev.com/ghpvc/?username=your-github-username&color=brightgreen)
 
 ## 🚀 About Me
-I am a **passionate software developer** with a strong foundation in **Python** and **JavaScript**, eager to contribute to meaningful projects and grow in a collaborative environment. As a recent graduate in **Computer Science**, I have worked on several personal projects and academic assignments that strengthened my skills in full-stack development and machine learning.
+I am a **passionate software developer** with a strong foundation in **Python** and **JavaScript**, eager to contribute to meaningful projects and grow in a collaborative environment. As a final year student in **Computer Science**, I have worked on several personal projects and academic assignments that strengthened my skills in full-stack development and machine learning.
 
 Currently, I am looking for opportunities to apply my skills in real-world applications and contribute to innovative teams. I'm always open to learning and excited about the latest advancements in technology.
 
