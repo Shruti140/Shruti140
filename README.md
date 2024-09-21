@@ -1,6 +1,6 @@
 # Hi, I'm Shruti Nauriyal 👋
 
-![](https://komarev.com/ghpvc/?username=your-github-username&base=896&color=brightgreen)
+![](https://komarev.com/ghpvc/?username=Shruti140&color=brightgreen)
 
 ## 🚀 About Me
 I am a **passionate software developer** with a strong foundation in **Python** and **JavaScript**, eager to contribute to meaningful projects and grow in a collaborative environment. As a final year student in **Computer Science**, I have worked on several personal projects and academic assignments that strengthened my skills in full-stack development and machine learning.
